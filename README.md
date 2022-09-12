@@ -3,3 +3,5 @@ A Sdk Dumper for Il2Cpp Games
 
 Build in Release
 and ignore some of the code. I was just testing some shit and stuff hf.
+
+this still need some fixed tho
